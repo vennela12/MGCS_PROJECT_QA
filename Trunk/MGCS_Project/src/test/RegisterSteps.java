@@ -26,6 +26,7 @@ public class RegisterSteps {
 	@When("^User clicks on Register button$")
 	public void user_clicks_on_Register_button() throws Throwable {
 	    
+		// Write code to navigate to Registration Page
 	}
 
 	@Then("^Navigate to Registration page$")
